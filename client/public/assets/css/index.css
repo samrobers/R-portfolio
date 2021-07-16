@@ -63,3 +63,19 @@ a:visited {
 /* .start-opacity {
   opacity: 0.8;
 } */
+.project-card2 {
+  color: white;
+  background-color: #24273e;
+}
+.project-card2:hover {
+  transition: transform 0.4s;
+  transform: scale(1.2);
+}
+
+.regular-opacity {
+  opacity: 1;
+}
+
+.about-me {
+  background-color: #24273e;
+}
