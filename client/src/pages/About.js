@@ -12,10 +12,8 @@ function About() {
               m-5
               p-5
               col-sm-6
-              justify-content-center
               text-center
               about-me
-              rounded
               shadow-lg
             "
             >

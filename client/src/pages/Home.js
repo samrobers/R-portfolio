@@ -7,8 +7,8 @@ function Home() {
         <section className="row mt-5">
           <section className="row mt-5">
             <section className="mt-5">
-              <section className="text-center mt-5">
-                <h1 className="header-text">Projects</h1>
+              <section className="text-center mt-5  view-background ">
+                <h1 className="header-text mt-5">Project's</h1>
                 <p className="lead">
                   <a
                     href="/project"
@@ -18,7 +18,7 @@ function Home() {
                       bg-white
                       text-dark
                       zoom-nav
-                      mt-3
+                      mt-5
                     "
                   >
                     View
