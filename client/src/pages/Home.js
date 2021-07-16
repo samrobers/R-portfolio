@@ -8,10 +8,10 @@ function Home() {
           <section className="row mt-5">
             <section className="mt-5">
               <section className="text-center mt-5">
-                <h1>Projects</h1>
+                <h1 className="header-text">Projects</h1>
                 <p className="lead">
                   <a
-                    href="./"
+                    href="/project"
                     className="
                       btn btn-lg btn-secondary
                       fw-bold
