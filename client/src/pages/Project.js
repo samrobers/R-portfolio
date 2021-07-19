@@ -29,7 +29,7 @@ function Project() {
                     Some quick example text to build on the card title and make
                     up the bulk of the card's content.
                   </p>
-                  <a href="./" className="btn mx-1 btn-outline-light">
+                  <a href="/shop" className="btn mx-1 btn-outline-light">
                     Source Code
                   </a>
                 </div>

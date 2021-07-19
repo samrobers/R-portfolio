@@ -1,5 +1,5 @@
 import React from "react";
-
+import Resume from "../../pages/images/resumesr.pdf";
 function Header() {
   return (
     <>
@@ -24,7 +24,7 @@ function Header() {
             </a>
           </section>
           <section className="fs-4 zoom-nav mt-2  m-4">
-            <a href="/resume" className="text-color header-text">
+            <a href={Resume} className="text-color header-text">
               Resume
             </a>
           </section>
