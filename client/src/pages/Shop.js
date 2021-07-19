@@ -10,7 +10,9 @@ function Shop() {
             <section className="col-sm-2"></section>
             <section className="col-sm-5">
               <section className="project-text">
-                <h4>Functionality</h4>
+                <h4>
+                  <strong>Functionality</strong>
+                </h4>
                 <p>
                   Lorem ipsum dolor sit amet consectetur adipisicing elit.
                   Minima asperiores velit architecto. Culpa expedita doloribus
@@ -18,7 +20,9 @@ function Shop() {
                 </p>
               </section>
               <section className="project-text">
-                <h4>My responsibilites</h4>
+                <h4>
+                  <strong>My responsibilites</strong>
+                </h4>
                 <p>
                   Lorem ipsum dolor sit amet consectetur adipisicing elit.
                   Minima asperiores velit architecto. Culpa expedita doloribus
@@ -32,7 +36,7 @@ function Shop() {
                       bg-white
                       text-dark
                       zoom-nav
-                      mt-5
+                      mt-4
                     "
                 >
                   <a className="project-btn-style" href="ww.google.com">
@@ -44,7 +48,9 @@ function Shop() {
 
             <section className="col-sm-5">
               <section className="project-text">
-                <h4>My responsibilites</h4>
+                <h4>
+                  <strong>My responsibilites</strong>
+                </h4>
                 <p>
                   Lorem ipsum dolor sit amet consectetur adipisicing elit.
                   Minima asperiores velit architecto. Culpa expedita doloribus
@@ -52,7 +58,9 @@ function Shop() {
                 </p>
               </section>
               <section className="project-text">
-                <h4>Technologies used</h4>
+                <h4>
+                  <strong>Technologies used</strong>
+                </h4>
                 <p>
                   Lorem ipsum dolor sit amet consectetur adipisicing elit.
                   Minima asperiores velit architecto. Culpa expedita doloribus
@@ -66,7 +74,7 @@ function Shop() {
                       bg-white
                       text-dark
                       zoom-nav
-                      mt-5
+                      mt-4
                     "
                 >
                   <a className="project-btn-style" href="ww.google.com">
