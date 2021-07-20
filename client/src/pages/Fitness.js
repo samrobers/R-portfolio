@@ -10,24 +10,6 @@ function FitTrack() {
             <section className="col-sm-2"></section>
             <section className="col-sm-5">
               <section className="project-text">
-                <h4>
-                  <strong>Functionality</strong>
-                </h4>
-                <p>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Minima asperiores velit architecto. Culpa expedita doloribus
-                  commodi molestias doloremque quas ipsa?
-                </p>
-              </section>
-              <section className="project-text">
-                <h4>
-                  <strong>My responsibilites</strong>
-                </h4>
-                <p>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Minima asperiores velit architecto. Culpa expedita doloribus
-                  commodi molestias doloremque quas ipsa?
-                </p>
                 <button
                   className="
                       w-100
@@ -36,36 +18,38 @@ function FitTrack() {
                       bg-white
                       text-dark
                       zoom-nav
-                      mt-4
                     "
                 >
-                  <a className="project-btn-style" href="ww.google.com">
+                  <a
+                    className="project-btn-style"
+                    href="https://trackyourworkoutsr.herokuapp.com/?id=60c6bbdaa5e6880015232d2a"
+                  >
                     Demo
                   </a>
                 </button>
+                <h4 class="mt-4">
+                  <strong>Description</strong>
+                </h4>
+                <p>
+                  This application was designed as a fitness tracker for users
+                  to view their progress over a period of time.
+                </p>
+              </section>
+              <section className="project-text">
+                <h4>
+                  <strong>Functionality</strong>
+                </h4>
+                <p>
+                  It allows the user to factors to their workout as well as
+                  choose the type of their workout. The data is stored and once
+                  the user has a week of workouts they can see a graph of the
+                  progress.
+                </p>
               </section>
             </section>
 
             <section className="col-sm-5">
               <section className="project-text">
-                <h4>
-                  <strong>My responsibilites</strong>
-                </h4>
-                <p>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Minima asperiores velit architecto. Culpa expedita doloribus
-                  commodi molestias doloremque quas ipsa?
-                </p>
-              </section>
-              <section className="project-text">
-                <h4>
-                  <strong>Technologies used</strong>
-                </h4>
-                <p>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Minima asperiores velit architecto. Culpa expedita doloribus
-                  commodi molestias doloremque quas ipsa?
-                </p>
                 <button
                   className="
                       w-100
@@ -74,13 +58,29 @@ function FitTrack() {
                       bg-white
                       text-dark
                       zoom-nav
-                      mt-4
                     "
                 >
-                  <a className="project-btn-style" href="ww.google.com">
+                  <a
+                    className="project-btn-style"
+                    href=" https://github.com/samrobers/fitnessTracker"
+                  >
                     Source Code
                   </a>
                 </button>
+                <h4 class="mt-4">
+                  <strong>Contribution</strong>
+                </h4>
+                <p>
+                  MongoDB utilization to keep the user data persistent and
+                  provide that information to the user within a certain date
+                  window.
+                </p>
+              </section>
+              <section className="project-text">
+                <h4>
+                  <strong>Technology</strong>
+                </h4>
+                <p>Javascript, Html, CSS, MongoDB, dotenv, express, mongoose</p>
               </section>
             </section>
           </section>

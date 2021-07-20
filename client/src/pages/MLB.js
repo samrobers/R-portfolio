@@ -10,24 +10,6 @@ function MLBTrack() {
             <section className="col-sm-2"></section>
             <section className="col-sm-5">
               <section className="project-text">
-                <h4>
-                  <strong>Functionality</strong>
-                </h4>
-                <p>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Minima asperiores velit architecto. Culpa expedita doloribus
-                  commodi molestias doloremque quas ipsa?
-                </p>
-              </section>
-              <section className="project-text">
-                <h4>
-                  <strong>My responsibilites</strong>
-                </h4>
-                <p>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Minima asperiores velit architecto. Culpa expedita doloribus
-                  commodi molestias doloremque quas ipsa?
-                </p>
                 <button
                   className="
                       w-100
@@ -36,36 +18,38 @@ function MLBTrack() {
                       bg-white
                       text-dark
                       zoom-nav
-                      mt-4
                     "
                 >
-                  <a className="project-btn-style" href="ww.google.com">
+                  <a
+                    className="project-btn-style"
+                    href="https://calm-lake-10775.herokuapp.com/"
+                  >
                     Demo
                   </a>
                 </button>
+                <h4 class="mt-4">
+                  <strong>Description</strong>
+                </h4>
+                <p>
+                  This is a Major League baseball application to help track what
+                  stadiums you have been to and to help plan future trips by
+                  showing local attractions.
+                </p>
+              </section>
+              <section className="project-text">
+                <h4>
+                  <strong>Functionality</strong>
+                </h4>
+                <p>
+                  It allows the user to sign-in, sign-up, log-in, search
+                  different ballparks, find what they have to offer inside as
+                  well as near, save the ballparks visited to the profile.
+                </p>
               </section>
             </section>
 
             <section className="col-sm-5">
               <section className="project-text">
-                <h4>
-                  <strong>My responsibilites</strong>
-                </h4>
-                <p>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Minima asperiores velit architecto. Culpa expedita doloribus
-                  commodi molestias doloremque quas ipsa?
-                </p>
-              </section>
-              <section className="project-text">
-                <h4>
-                  <strong>Technologies used</strong>
-                </h4>
-                <p>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Minima asperiores velit architecto. Culpa expedita doloribus
-                  commodi molestias doloremque quas ipsa?
-                </p>
                 <button
                   className="
                       w-100
@@ -74,13 +58,31 @@ function MLBTrack() {
                       bg-white
                       text-dark
                       zoom-nav
-                      mt-4
                     "
                 >
-                  <a className="project-btn-style" href="ww.google.com">
+                  <a
+                    className="project-btn-style"
+                    href="https://github.com/jongregory75/MLB-Ballpark-Tracker"
+                  >
                     Source Code
                   </a>
                 </button>
+                <h4 class="mt-4">
+                  <strong>Contribution</strong>
+                </h4>
+                <p>
+                  I completed the backend for this project as well as passing
+                  authorization and utilizing it on the front end.
+                </p>
+              </section>
+              <section className="project-text">
+                <h4>
+                  <strong>Technology</strong>
+                </h4>
+                <p>
+                  Javascript, Html, CSS, Mongoose, NoSql, MongoDB, Bcrypt,
+                  jwt-decode, React, Bootstrap, graphQl
+                </p>
               </section>
             </section>
           </section>

@@ -20,7 +20,10 @@ function Shop() {
                       zoom-nav
                     "
                 >
-                  <a className="project-btn-style" href="ww.google.com">
+                  <a
+                    className="project-btn-style"
+                    href=" https://shop-a-lot.herokuapp.com/"
+                  >
                     Demo
                   </a>
                 </button>
@@ -57,7 +60,10 @@ function Shop() {
                       zoom-nav
                     "
                 >
-                  <a className="project-btn-style" href="ww.google.com">
+                  <a
+                    className="project-btn-style"
+                    href=" https://github.com/V1brance/shop-a-lot"
+                  >
                     Source Code
                   </a>
                 </button>
@@ -75,7 +81,8 @@ function Shop() {
                   <strong>Technology</strong>
                 </h4>
                 <p>
-                  Javascript, Html, CSS, Sequelize, Restful, Insomnia, Bcrypt
+                  Javascript, Html, CSS, Sequelize, Restful, MySql, Insomnia,
+                  Bcrypt
                 </p>
               </section>
             </section>
