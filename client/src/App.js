@@ -11,6 +11,7 @@ import Shop from "./pages/Shop";
 import MLB from "./pages/MLB";
 import Fitness from "./pages/Fitness";
 import Daily from "./pages/Daily";
+import Contact from "./pages/Contact";
 import "./App.css";
 
 function App() {
@@ -26,6 +27,7 @@ function App() {
           <Route exact path="/daily" component={Daily} />
           <Route exact path="/mlb" component={MLB} />
           <Route exact path="/fitness" component={Fitness} />
+          <Route exact path="/contact" component={Contact} />
         </Switch>
         <Footer />
       </Router>

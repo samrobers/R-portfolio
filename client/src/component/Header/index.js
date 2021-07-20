@@ -19,8 +19,8 @@ function Header() {
             </a>
           </section>
           <section className=" fs-4 zoom-nav mt-2  m-4">
-            <a href="/contact" className="text-color header-text">
-              Contact
+            <a href="/project" className="text-color header-text">
+              Projects
             </a>
           </section>
           <section className="fs-4 zoom-nav mt-2  m-4">

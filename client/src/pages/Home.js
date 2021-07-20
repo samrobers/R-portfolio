@@ -8,7 +8,7 @@ function Home() {
           <section className="row mt-5">
             <section className="mt-5">
               <section className="text-center mt-5  view-background ">
-                <h1 className="header-text mt-5">Projects</h1>
+                <h1 className="header-text mt-5">Click Here For Projects</h1>
                 <p className="lead">
                   <a
                     href="/project"
