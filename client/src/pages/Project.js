@@ -30,7 +30,7 @@ function Project() {
                     up the bulk of the card's content.
                   </p>
                   <a href="/shop" className="btn mx-1 btn-outline-light">
-                    Source Code
+                    More Info
                   </a>
                 </div>
               </div>
@@ -52,7 +52,7 @@ function Project() {
                     up the bulk of the card's content.
                   </p>
                   <a href="/mlb" className="btn btn-outline-light">
-                    Source Code
+                    More Info
                   </a>
                 </div>
               </div>
@@ -74,7 +74,7 @@ function Project() {
                     up the bulk of the card's content.
                   </p>
                   <a href="/fitness" className="btn btn-outline-light">
-                    Source Code
+                    More Info
                   </a>
                 </div>
               </div>
@@ -96,7 +96,7 @@ function Project() {
                     up the bulk of the card's content.
                   </p>
                   <a href="/daily" className="btn btn-outline-light">
-                    Source Code
+                    More Info
                   </a>
                 </div>
               </div>

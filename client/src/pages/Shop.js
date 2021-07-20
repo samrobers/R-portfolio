@@ -10,24 +10,6 @@ function Shop() {
             <section className="col-sm-2"></section>
             <section className="col-sm-5">
               <section className="project-text">
-                <h4>
-                  <strong>Functionality</strong>
-                </h4>
-                <p>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Minima asperiores velit architecto. Culpa expedita doloribus
-                  commodi molestias doloremque quas ipsa?
-                </p>
-              </section>
-              <section className="project-text">
-                <h4>
-                  <strong>My responsibilites</strong>
-                </h4>
-                <p>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Minima asperiores velit architecto. Culpa expedita doloribus
-                  commodi molestias doloremque quas ipsa?
-                </p>
                 <button
                   className="
                       w-100
@@ -36,36 +18,35 @@ function Shop() {
                       bg-white
                       text-dark
                       zoom-nav
-                      mt-4
                     "
                 >
                   <a className="project-btn-style" href="ww.google.com">
                     Demo
                   </a>
                 </button>
+                <h4 class="mt-4">
+                  <strong>Description</strong>
+                </h4>
+                <p>
+                  This application was designed as a e-commerce site set in the
+                  world of dungeons and dragons.
+                </p>
+              </section>
+              <section className="project-text">
+                <h4>
+                  <strong>Functionality</strong>
+                </h4>
+                <p>
+                  It allows the user to sign-in, sign-up, log-in, search for
+                  items and add them to their cart and then their backpack. The
+                  methods of search also have categories if you are just
+                  browsing.
+                </p>
               </section>
             </section>
 
             <section className="col-sm-5">
               <section className="project-text">
-                <h4>
-                  <strong>My responsibilites</strong>
-                </h4>
-                <p>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Minima asperiores velit architecto. Culpa expedita doloribus
-                  commodi molestias doloremque quas ipsa?
-                </p>
-              </section>
-              <section className="project-text">
-                <h4>
-                  <strong>Technologies used</strong>
-                </h4>
-                <p>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Minima asperiores velit architecto. Culpa expedita doloribus
-                  commodi molestias doloremque quas ipsa?
-                </p>
                 <button
                   className="
                       w-100
@@ -74,13 +55,28 @@ function Shop() {
                       bg-white
                       text-dark
                       zoom-nav
-                      mt-4
                     "
                 >
                   <a className="project-btn-style" href="ww.google.com">
                     Source Code
                   </a>
                 </button>
+                <h4 class="mt-4">
+                  <strong>Contribution</strong>
+                </h4>
+                <p>
+                  I worked primarily on all of the backend making sure the
+                  correct data and relationships were served when requested as
+                  well as the search bar.
+                </p>
+              </section>
+              <section className="project-text">
+                <h4>
+                  <strong>Technology</strong>
+                </h4>
+                <p>
+                  Javascript, Html, CSS, Sequelize, Restful, Insomnia, Bcrypt
+                </p>
               </section>
             </section>
           </section>
